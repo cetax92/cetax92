@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dino.
-- 👀 I’m interested in programing.
-- 🌱 I’m currently learning JavaScript. 
+- 👨🏻‍💻 I’m interested in programing.
+- 🤓 I’m currently learning JavaScript. 
 
 
 <!---
